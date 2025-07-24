@@ -1,0 +1,29 @@
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\bin\Debug\Memory.exe.config
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\bin\Debug\Memory.exe
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\bin\Debug\Memory.pdb
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\bin\Debug\AivDraw.dll
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.exe
+D:\Marco\Desktop\MEDIA-FILE\C#\fullcourse\Memory\Memory\obj\Debug\Memory.pdb
+J:\AIV\programmi\Memory\Memory\bin\Debug\Memory.exe.config
+J:\AIV\programmi\Memory\Memory\bin\Debug\Memory.exe
+J:\AIV\programmi\Memory\Memory\bin\Debug\Memory.pdb
+J:\AIV\programmi\Memory\Memory\bin\Debug\AivDraw.dll
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.csproj.SuggestedBindingRedirects.cache
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.exe
+J:\AIV\programmi\Memory\Memory\obj\Debug\Memory.pdb
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\bin\Debug\Memory.exe.config
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\bin\Debug\Memory.exe
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\bin\Debug\Memory.pdb
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\bin\Debug\AivDraw.dll
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\obj\Debug\Memory.csproj.AssemblyReference.cache
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\obj\Debug\Memory.csproj.CopyComplete
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\obj\Debug\Memory.exe
+D:\marco\Desktop\AIV programmazione\PRIMO ANNO\programmi\esercizi\Memory\Memory\obj\Debug\Memory.pdb
